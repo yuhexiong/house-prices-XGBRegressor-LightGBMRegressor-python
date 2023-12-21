@@ -12,7 +12,11 @@
 
 ## Data Distribution
 
+- Histogram of Values for Each Field
+
 ![image](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python/blob/main/image/column_count.png)
+
+- Scatter Plot of Each Field Against Price
 
 ![image](https://github.com/yuhexiong/house-prices-XGBRegressor-LightGBMRegressor-python/blob/main/image/column_vs_prices.png)
 
